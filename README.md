@@ -1,7 +1,7 @@
 # Análise de Caso: Viés em IA na Triagem de Emergência
 
 Este repositório contém um trabalho acadêmico desenvolvido em grupo, com foco em analisar os riscos e as implicações éticas de treinar Inteligência Artificial (IA) com dados enviesados.
-O objetivo principal foi utilizar um caso de estudo real — a implementação de uma IA na triagem de emergência do Hospital de Bordeaux — para explorar os desafios de **Viés e Justiça**, **Transparência**, **Impacto Social** e **Governança** em sistemas de computação.
+O objetivo principal foi utilizar um caso de estudo real da implementação de uma IA na triagem de emergência do Hospital de Bordeaux, para explorar os desafios de **Viés e Justiça**, **Transparência**, **Impacto Social** e **Governança** em sistemas de computação.
 
 ---
 
